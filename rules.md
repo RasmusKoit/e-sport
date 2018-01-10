@@ -36,7 +36,7 @@ for that ban if there is enough evidence that player/team has learned from previ
 
 ## 2. Demos
 
-It is required by**each**player to record their point-of-view (POV) demo per map for the full duration without
+It is required by **each** player to record their point-of-view (POV) demo per map for the full duration without
 exceptions. Failure to show players POV demo when asked by staff or GM may result in a win for the opposing team.
 If there is a cheating suspicion by staff or GM then demo for that player will be checked.
 
@@ -108,7 +108,7 @@ Some examples of forbidden things:
 ### 3.1.5 Software and hardware tools
 
 Alteration to game graphics or textures is forbidden. Overlays for game are also forbidden
-(Nvidia SLI Display, Rivatuner Overlays). Tools that show**only** fps are allowed.
+(Nvidia SLI Display, Rivatuner Overlays). Tools that show **only** fps are allowed.
 
 If you are found using any of these mentioned above you will be punished.
 
