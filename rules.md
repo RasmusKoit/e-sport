@@ -52,9 +52,8 @@ These demos cannot be uploaded to online when requested by GM or staff. Demos ca
 
 ### 2.3 Accusation of cheating
 
-Accusation for cheating can only occur in 72 hour time frame after the game has ended. 
-However, these accusations can be dealt with later than time frame mentioned by staff 
-(if the accusation was made in time).
+Accusation of cheating can only be pointed out during the competition. Any accusations after the event are not valid,
+since this is LAN
 
 ## 3. Settings
 
@@ -123,9 +122,7 @@ This folder can only contain config files, anything else is forbidden.
 
 ### 4.1 Nickname
 
-Each player has to use nickname similar to the nickname entered when registering. 
-You are not allowed to change your nickname in game.
-Having obscenities in your nickname is also not allowed.
+Nicknames can't contain any racial slurs
 
 ### 4.2 Warmup
 
@@ -161,33 +158,26 @@ without that player. That player may connect back into the game later on.
 
 ### 4.4.4 Change of players
 
-Players can be changed at any time if the opposing team and GM have been informed in advance.
-Game can also be paused for 5 minutes for that change to happen. Failure to do so will result in game to be continued
-and the player can join the running game.
+Players can't be changed during the game
 
 ### 4.4.5 Overtime
 
-Playing overtime is mandatory. Overtime will be played MR3 (max of 6 rounds). 
-Teams will keep playing overtime until winner team has been found.
+Players won't play overtime since draws are considered as one of the outcomes
 
 ### 4.4.6 Bugs and forbidden actions
 
-### 4.4.6.1 Weapon choice
-
-Usage of negev is forbidden.
-
-### 4.4.6.2 Bomb
+### 4.4.6.1 Bomb
 
 Players are not to plant the bomb in inaccessible locations.
 
-### 4.4.6.3 Boosting, Sky walking, sharking
+### 4.4.6.2 Boosting, Sky walking, sharking
 
 Boosting through walls, ceilings or ground, invisible pixels or surfaces,
 sky walking, map swimming, floating and sharking are all forbidden
 
 Regular stacking people is allowed. Except for cases where textures disappear in walls or ground if a jump is required.
 
-### 4.4.6.4 Other
+### 4.4.6.3 Other
 
 The use of bugs is not allowed. Should there be a new bug found then GM will decide the punishment if needed.
 
@@ -222,7 +212,7 @@ All servers will be hosted in a Local Area Network (LAN).
 ## 5 Tournament structure
 
 * Group stage - 4 teams advance from each group
-* Brackets double elimination - upper bracket Best of 1(BO1), semi-final BO3, final BO5, lower pracket BO1
+* Brackets double elimination - upper bracket Best of 1(BO1), semi-final BO3, final BO5, lower bracket BO1
 * The exact tournament structure with standoffs is determined at the event
 
 ## Special thanks
