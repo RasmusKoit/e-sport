@@ -164,20 +164,25 @@ Players can't be changed during the game
 
 Players won't play overtime since draws are considered as one of the outcomes
 
-### 4.4.6 Bugs and forbidden actions
+### 4.4.6 Map picking
 
-### 4.4.6.1 Bomb
+BO1: ban, ban, ban, ban, ban, ban and pick
+BO3: Ban, ban, pick, pick, ban, ban and pick
+
+### 4.4.7 Bugs and forbidden actions
+
+### 4.4.7.1 Bomb
 
 Players are not to plant the bomb in inaccessible locations.
 
-### 4.4.6.2 Boosting, Sky walking, sharking
+### 4.4.7.2 Boosting, Sky walking, sharking
 
 Boosting through walls, ceilings or ground, invisible pixels or surfaces,
 sky walking, map swimming, floating and sharking are all forbidden
 
 Regular stacking people is allowed. Except for cases where textures disappear in walls or ground if a jump is required.
 
-### 4.4.6.3 Other
+### 4.4.7.3 Other
 
 The use of bugs is not allowed. Should there be a new bug found then GM will decide the punishment if needed.
 

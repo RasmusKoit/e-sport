@@ -20,7 +20,7 @@ Siia alla ei lähe muudatused, mida otsustab GM iseseisvalt, et tagada mängjate
 
 ### 1.2 Koodimine
 
-* Mängijad, kes jäävad koodimisega vahele diskvalitseeritakse võistlusest
+* Mängijad, kes jäävad koodimisega vahele diskvalitseeritakse võistlusest koos tiimiga
 * Olenevalt olukorrast võib rakenduda keeld edaspidistele turniiridele, mis on korraldatud TTÜ e-spordi poolt
 * Koodimise alla kuuluvad aimbots, wallhacks, sound hacks, no recoil, no smoke, no flash, colored models
 ambient occlusion ja teised kolmanda osapoole programmid.
@@ -47,7 +47,7 @@ Neid ei tohi laadida internetti, kui neid küsitakse GM-i poolt. Salvestusi ei t
 
 ### 2.3 Koodimise süüdistus
 
-Süüdistused võetakse arvesse ainult võrgupeo ajal. Vajadusel kontrollib seda GM või korraldusmeeskond. 
+Süüdistused võetakse arvesse ainult võrgupeo ajal. Vajadusel kontrollib seda GM. 
 Hilisemad süüdistused ei lähe arvesse.
 
 ## 3. Seaded
@@ -154,24 +154,29 @@ tagasi.
 
 Mängijaid ei tohi vahetada turniiri jooksul.
 
-### 4.4.5 Lisa aeg
+### 4.4.5 Lisaaeg
 
-Juhul, kui mäng jääb viiki, siis ei tule lisa aega
+Juhul, kui mäng jääb viiki, siis ei tule lisaaega. Pärast grupimänge toimub lisaaeg.
 
-### 4.4.6 Vead ja ja keelatud tegevused
+### 4.4.6 Mapide valimine
 
-### 4.4.6.1 Pomm
+Parim ühest: Ban, ban, ban, ban, ban, ban ja valik
+Parim kolmest: Ban, ban, valik, valik, ban, ban ja valik
+
+### 4.4.7 Vead ja ja keelatud tegevused
+
+### 4.4.7.1 Pomm
 
 Mängijad ei tohi paigaldada pommi ligipääsematutesse kohtadesse
 
-### 4.4.6.2 Boosting, Sky walking, sharking
+### 4.4.7.2 Boosting, Sky walking, sharking
 
 Boostimine läbi seinade, lae või maa, kõndimine nähtamatutel äärtel, "Skywalking", "Map swimming", ja "Sharking" on
 kõik keelatud tegevused
 
-Regular stacking people is allowed. Except for cases where textures disappear in walls or ground if a jump is required.
+Tavaline inimeste kuhjamine on lubatud
 
-### 4.4.6.3 Muu
+### 4.4.7.3 Muu
 
 Vigade kasutamine on keelatud. Uue vea leidmisel GM otsustab karistuse
 
