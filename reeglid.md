@@ -146,7 +146,7 @@ ja kaotaja tiim peab kirjutama konsooli kill, seda roundi ei võeta arvesse ja k
 
 Juhul, kui mängija kaob mängust, siis tuleb kirjutada mängus .pause
 
-Mängijal on aega 15 minutit, et tagasi tulle. Pärast seda mängitakse edasi isegi, kui mängija ei jõua selle aja sees
+Mängijal on aega 15 minutit, et tagasi tulla. Pärast seda mängitakse edasi isegi, kui mängija ei jõua selle aja sees
 tagasi.
 
 
@@ -211,7 +211,7 @@ Kõik serverid on lokaalses võrgus (LAN).
 ## 5 Võistluse struktuur
 
 * Grupi tasand - 4 tiimi pääsevad edasi
-* Double elimination - Ülemine võistlus parim ühest, semi finaal parim kolmest,
+* Double elimination - Ülemine võistlus parim ühest, veerandfinaal parim kolmest, semi finaal parim kolmest,
  finaal parim viiest, alumine võistlus parim ühest
 * Täpne võistluse struktuur ja tiimide väljapanek selgub kohapeal
 
