@@ -3,7 +3,7 @@
 
 ## 1. Üldiselt
 
-Need reeglid baseeruvad ESL 5vs5 avatud liiga reeglistikule, kuid neid on muudetud vastavalt TTÜ e-spordi vajadustele.
+Need reeglid baseeruvad ESL 5vs5 avatud liiga reeglistikule, kuid neid on muudetud vastavalt vajadustele.
 Järgmised reeglid on ausa mängu tagamiseks.
 
 Mänguvana (GM) võib igal hetkel muuta neid reegleid.
